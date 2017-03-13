@@ -1,5 +1,8 @@
 _repo: The-Voyages-of-Doctor-Dolittle_1154
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lofting, Hugh
@@ -16,6 +19,8 @@ description: "The Voyages of Doctor Dolittle was the second of Hugh Lofting's Do
   \ edition contains several derogatory terms for Africans that are removed from modern\
   \ editions in certain countries. Some illustrations have also been removed.\n\n\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1154#The-Voyages-of-Doctor-Dolittle
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '1998-01-01'
 gutenberg_type: Text
